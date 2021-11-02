@@ -193,10 +193,13 @@
                                                 </label>
                                             </subviews>
                                             <constraints>
+                                                <constraint firstItem="lQJ-Gn-sW9" firstAttribute="leading" secondItem="FoG-ba-RD5" secondAttribute="leadingMargin" id="43b-YY-uxz"/>
+                                                <constraint firstItem="lQJ-Gn-sW9" firstAttribute="leading" secondItem="FoG-ba-RD5" secondAttribute="leadingMargin" constant="16" id="6rZ-sJ-Bdp"/>
                                                 <constraint firstItem="lQJ-Gn-sW9" firstAttribute="top" secondItem="FoG-ba-RD5" secondAttribute="topMargin" constant="8" id="N95-mI-HFM"/>
                                                 <constraint firstItem="lQJ-Gn-sW9" firstAttribute="leading" secondItem="FoG-ba-RD5" secondAttribute="leadingMargin" constant="16" id="Pr8-nU-cvp"/>
                                                 <constraint firstAttribute="trailingMargin" secondItem="lQJ-Gn-sW9" secondAttribute="trailing" constant="8" id="UC7-ds-pvR"/>
                                                 <constraint firstAttribute="bottomMargin" secondItem="lQJ-Gn-sW9" secondAttribute="bottom" constant="8" id="UK7-Ej-uaf"/>
+                                                <constraint firstItem="lQJ-Gn-sW9" firstAttribute="leading" secondItem="FoG-ba-RD5" secondAttribute="leadingMargin" constant="8" id="jFE-dN-jcK"/>
                                                 <constraint firstItem="lQJ-Gn-sW9" firstAttribute="leading" secondItem="FoG-ba-RD5" secondAttribute="leadingMargin" constant="8" id="sQ5-Xt-khl"/>
                                             </constraints>
                                         </tableViewCellContentView>
